@@ -26,7 +26,7 @@ public class Application {
 			
 			divider++;
 		}
-		
+		//komentarasKM
 		
 		return isThereRemainder;
 	}
